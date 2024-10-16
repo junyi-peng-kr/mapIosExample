@@ -48,3 +48,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# For IOS, React native map to use Google map, follow the instruction here 
+- [installation](https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md): 
